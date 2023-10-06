@@ -1036,6 +1036,11 @@ body {
     max-width: 100%;
   }
 }
+
+.ques {
+  width: 70%;
+  display: inline-block;
+}
 .about--banner {
   position: relative;
   height: 475px;

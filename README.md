@@ -1,18 +1,9 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# [TUKI Virtual Assistant](https://isaack08.github.io/TUKI/)
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+### [El Asistente Virtual TODO en UNO]
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+Descubre el futuro de la interacción tecnológica con TUKI, tu asistente virtual avanzado. Simplifica tu vida digital, desde controlar dispositivos hasta obtener asesoramiento técnico, todo con solo hablar. Tu voz es el comando que abre un mundo de posibilidades, convirtiendo la tecnología en una experiencia a tu medida.
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+Este proyecto ha sido desarrollado con HTML5, Sass, jQuery, and Hammer.js.
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
-
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
-
-[LIVE PREVIEW](http://buckymaler.com/global)
-
-## Misc:
-
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+[VISTA PREVIA EN VIVO](https://isaack08.github.io/TUKI/)
